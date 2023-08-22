@@ -5,4 +5,3 @@ string product = "obuolys";
 Console.WriteLine("Preke:" + product);
 Console.WriteLine("kiekis: " + qty);
 Console.WriteLine("kaina: " + price + " eur");
-Console.WriteLine("\n");
